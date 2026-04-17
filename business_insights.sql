@@ -14,7 +14,6 @@ create table order_details(
   pizza_id text not null,
   quantity int not null
 );
-drop table order_details;
 
 -- Retrieve the total number of orders placed.
 
