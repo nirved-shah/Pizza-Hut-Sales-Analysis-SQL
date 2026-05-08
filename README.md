@@ -83,52 +83,6 @@ orders → order_details → pizzas → pizza_types
 
 ---
 
-## 🧠 SQL Concepts Used
-
-### Joins
-
-- INNER JOIN across multiple tables
-
-### Aggregate Functions
-
-- SUM()
-- COUNT()
-- AVG()
-- ROUND()
-
-### Grouping & Sorting
-
-- GROUP BY
-- ORDER BY
-
-### Subqueries
-
-- Percentage revenue contribution
-
-### Window Functions
-
-- SUM() OVER()
-- RANK() OVER(PARTITION BY category)
-
-### Date & Time Functions
-
-- HOUR()
-- Daily Sales Analysis
-
----
-
-## 📁 Project Structure
-
-pizza-hut-sql-analysis/  
-│── business_insights.sql  
-│── orders.csv  
-│── order_details.csv  
-│── pizzas.csv  
-│── pizza_types.csv  
-└── README.md
-
----
-
 ## 🚀 How to Run This Project
 
 ```sql
